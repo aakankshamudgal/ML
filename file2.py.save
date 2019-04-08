@@ -1,0 +1,3 @@
+fd = "new.txt"
+file2=open(fd,'w')
+fil
